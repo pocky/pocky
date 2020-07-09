@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oh! HAI! 👋
 
 <!--
 **pocky/pocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
