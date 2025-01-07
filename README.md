@@ -2,7 +2,7 @@
 
 Hello, I am Alex(andre) "pocky" Balmes and I try to work and contribute on OSS projects. I am a big fan of architecture (DDD/Hexa/Clean) even if I don't have any problems with RAD. I also love Sylius and Symfony but I am a PHP developer.
 
-It is also possible to find me on my [blog](https://write.vanoix.com/alexandre) in 🇫🇷 or on [twitter](https://twitter.com/pockystar)
+It is also possible to find me on my [blog](https://write.vanoix.com/alexandre) in 🇫🇷 or on [bsky](https://pockystar.bsky.social)
 
 I have created [akawaka](https://www.akawaka.fr)
 
@@ -12,7 +12,7 @@ I have created [akawaka](https://www.akawaka.fr)
 If you think there is something to add to my projects, feel free to create an issue and ping me (hard) because of my profesionnal position.
 
 #### Gimme some ca$h 👨‍💻
-The best way to help me is to hire us on [akawaka](https://www.akawaka.fr) for your Symfony and/or your Sylius projects. We are simply the best 😄.
+The best way to help me is to hire us on [akawaka](https://www.akawaka.fr) for your Symfony and/or your Sylius projects. As Tina said, we are simply the best 😄.
 
 
 <!--
