@@ -1,32 +1,37 @@
-### Oh! HAI! 👋
+## Oh! HAI! 👋
+Hello, I am Alex(andre) "pocky" Balmes, and I build pragmatic, production-grade software.
 
-Hello, I am Alex(andre) "pocky" Balmes and I try to make stuff with a line of codes. I am a big fan of architecture (DDD/Hexa/Clean) even if I don't have any problems with RAD. I also loves automation, Sylius and Symfony.
-I am a PHP developer but I work on lot of stuff with AI... :)
+I am a massive fan of software architecture (DDD, Hexagonal, Clean Architecture) but I have absolutely no problem leveraging RAD when it makes business sense. Long-time PHP developer deeply rooted in the Symfony and Sylius ecosystems, I also spend a significant amount of my time building low-level, vendor-agnostic infrastructure for the AI era.
 
-It is also possible to find me on my [blog](https://alex.balmes.co) in 🇫🇷 or on [bsky](https://pockystar.bsky.social)
+You can read my rants on my [blog](https://alex.balmes.co) or find me hanging out on [Bluesky](https://pockystar.bsky.social).
 
-Fun fact, I have created [akawaka](https://www.akawaka.fr) and [d11n.studio](https://d11n.studio/) under [vanoix](https://vanoix.com). If you want to give us some money, feel free to contact us.
+### 🏗️ The Main Hustle: AI Workflow Framework (AWF)
+Tired of fragile AI demos, "no-code magic" myths, and constant engineering AI fatigue, I founded AWF — a compiled, high-performance, and strictly deterministic infrastructure ecosystem built to run AI agents in real production environments.
 
-### How to help me?
+Here are the main repositories I actively maintain:
 
-#### Contribute! 🔥
-If you think there is something to add to my projects, feel free to create an issue and ping me (hard) because of my profesionnal position.
+[awf-cli](https://github.com/awf-project/cli) (Go) — The core orchestrator. Driven by YAML state machines with unified token tracking, conditional loops, and canonical transcripts.
+
+[zpm](https://github.com/awf-project/zpm) (Zig + Prolog) — A high-performance Model Context Protocol (MCP) server embedding the Trealla Prolog engine to give LLMs deterministic logical reasoning and eliminate hallucinations.
+
+[ztick](https://github.com/awf-project/ztick) (Zig) — A push-driven, time-based job scheduler. Think cron in reverse: your apps push events over TCP/TLS exactly when they need them, eliminating polling and architectural drift.
+
+[Tower](https://github.com/awf-project/tower) (Rust) — An experimental, high-performance Virtual File System (VFS) indexing engine driven by AI via the MCP protocol.
+
+All AWF ecosystem components are proudly open-sourced under the EUPL-1.2 copyleft license.
+
+#### 💼 Fun Fact & Commercial Engagement
+I am the founder of [akawaka](https://www.akawaka.fr): elite web development focusing on high-end PHP, Symfony, Sylius, and JS/TS stacks, operating under the [vanoix](https://vanoix.com) umbrella.
+
+Bonus: All commercial engineering clients receive a free commercial license for the AWF ecosystem, bypassing any copyleft obligations.
+
+### 🤝 How to Help?
+Contribute! 🔥
+AWF is gaining tracking, and the codebase spans across Go, Zig, Rust, and Prolog. If you want to jump into the systems engineering trenches or add features, open an issue or submit a PR. Please ping me hard if I'm slow to review — running multiple companies keeps my schedule tight!
 
 #### Gimme some ca$h 👨‍💻
-The best way to help me is to hire us on [akawaka](https://www.akawaka.fr) for your PHP and {J,T}S projects. As Tina said, ~~we~~ they are simply the best 😄
+[Sponsor the project](https://github.com/sponsors/pocky): Support my open-source work directly via GitHub Sponsors.
 
+Hire us: Bring the [akawaka](https://www.akawaka.fr) crew onto your next mission-critical PHP, TypeScript, or AI infrastructure project. As Tina Turner famously said, we are simply the best. 😄
 
-<!--
-**pocky/pocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DEAL WITH IT. 😎
