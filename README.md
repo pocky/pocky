@@ -21,9 +21,7 @@ Here are the main repositories I actively maintain:
 All AWF ecosystem components are proudly open-sourced under the EUPL-1.2 copyleft license.
 
 #### 💼 Fun Fact & Commercial Engagement
-I am the founder of [akawaka](https://www.akawaka.fr): elite web development focusing on high-end PHP, Symfony, Sylius, and JS/TS stacks, operating under the [vanoix](https://vanoix.com) umbrella.
-
-Bonus: All commercial engineering clients receive a free commercial license for the AWF ecosystem, bypassing any copyleft obligations.
+I was the founder of [akawaka](https://www.akawaka.fr): elite web development focusing on high-end PHP, Symfony, Sylius and JS/TS stacks, operating under the [vanoix](https://vanoix.com) umbrella.
 
 ### 🤝 How to Help?
 Contribute! 🔥
@@ -32,6 +30,4 @@ AWF is gaining tracking, and the codebase spans across Go, Zig, Rust, and Prolog
 #### Gimme some ca$h 👨‍💻
 [Sponsor the project](https://github.com/sponsors/pocky): Support my open-source work directly via GitHub Sponsors.
 
-Hire us: Bring the [akawaka](https://www.akawaka.fr) crew onto your next mission-critical PHP, TypeScript, or AI infrastructure project. As Tina Turner famously said, we are simply the best. 😄
-
-DEAL WITH IT. 😎
+PS: DEAL WITH IT. 😎
